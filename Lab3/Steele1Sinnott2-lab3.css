@@ -1,0 +1,58 @@
+/*
+Lab 3 CSS styles
+CSS styles for Ultimate frisbee page
+*/
+
+body {
+  color: black;
+  font: 12pt "Tahoma", "Arial", sans-serif;
+}
+
+#wrapper{
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+header {
+background-color: LightSteelBlue;
+padding: 10px;
+
+}
+
+#news {
+	background-color: LightCyan;
+	width: 250px;
+	float: left; 
+	height: 504px;
+	padding: 10px;
+	margin-right: 15px;
+}
+
+#westerns {
+	background-color: LightSalmon;
+	padding: 10px;
+	margin-right: 15px;
+	
+}
+
+main {
+background-color: LightCyan;
+width: 900px;
+/*float: right; */
+}
+
+#main img{
+
+}
+
+
+footer {
+clear: both;
+background-color: LightSeaGreen;
+}
+
+h2,h1{
+
+}

@@ -1,0 +1,65 @@
+/*ITIS 2300 Lab2 css file*/
+
+/*styling for the whole page goes here*/
+body {
+	font-size: 16px;
+    background-color: #eeeeee;
+	color: #680000;
+}
+
+/*styling for the page title*/
+h1 {
+	font-style: italic;
+	font-size: 28px;
+    text-align: center;
+    background-color: #996600;
+	color: #f8f8f8;
+}
+
+/*styling for the overall table*/
+table {
+    background-color: #F8F8F8;
+	border: solid 2px #787878;
+}
+
+/*styling for the title of the table*/
+th {
+    font-weight: bold;
+    text-align: left;
+}
+
+/*styling for the coffee types*/
+.label {
+    font-weight: bold;
+}
+
+/*styling for the tables*/
+.altrow {
+	background-color: #E0E0E0;
+}
+
+/*styling for the Google Map link*/
+#locationlink {
+	color: #380000;
+	font-style:italic;
+}
+
+/*styling for the form submit button*/
+#submit {
+	background-color:darkred;
+	color:tan;
+}
+
+/*styling for the form input button*/
+input {
+	margin-left: 1em;
+	margin-bottom: 1em;
+	size: 1em;
+}
+
+/*styling for the bottom copyright information*/
+footer {
+    font-style: italic;
+	font-size: 12px;
+	text-align: center;
+}

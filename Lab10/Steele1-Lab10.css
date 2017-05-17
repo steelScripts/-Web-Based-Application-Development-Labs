@@ -1,0 +1,27 @@
+body {
+  
+}
+#wrapper{
+	margin:0 auto;
+	width:960px;
+	padding: 20px;
+	background-color:#eee;
+}
+
+.tn {
+padding-right:30px;
+padding-bottom:50px;
+
+}
+
+#tnails{
+float:left;
+width: 500px;
+}
+
+footer{
+clear:both;
+background: #ddd;
+line-height:25px;
+color:white;
+}
